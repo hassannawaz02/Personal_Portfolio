@@ -75,7 +75,7 @@ const Project = () => {
       image: "/nikejordee.png",
       technologies: ["Next.js", "TypeScript"],
       githubLink: "https://github.com/hassannawaz02/Niazi-Forces-Academy.git",
-      liveLink: "niaziforcesacademy.pk",
+      liveLink: "https://niaziforcesacademy.pk/",
       type: "project",
       icon: FaServer
     },
