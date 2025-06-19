@@ -70,12 +70,12 @@ const Project = () => {
       icon: FaCode
     },
     {
-      title: " Secure Data Encryption System",
-      description: "This is a Streamlit-based web app that allows users to securely encrypt and store sensitive data using a unique passkey, and later retrieve it with the same passkey.",
+      title: "Niazi Forces Academyy",
+      description: "Niazi Forces Academy is a responsive and informative web platform designed to guide and prepare students for careers in Pakistan’s Armed Forces.",
       image: "/nikejordee.png",
-      technologies: ["Streamlit", "Python"],
-      githubLink: "https://github.com/hassannawaz02/Assigment-05.git",
-      liveLink: "https://secure-data-encryption-02.streamlit.app/",
+      technologies: ["Next.js", "TypeScript"],
+      githubLink: "https://github.com/hassannawaz02/Niazi-Forces-Academy.git",
+      liveLink: "niaziforcesacademy.pk",
       type: "project",
       icon: FaServer
     },
@@ -109,14 +109,14 @@ const Project = () => {
       icon: FaServer
     },
     {
-      title: "Password Strength Meter",
-      description: "",
-      image: "/pyquiz.png",
-      technologies: ["Python"],
-      githubLink: "https://github.com/hassannawaz02/Password-Strength-Meter.git",
-      liveLink: "https://password-strength-meter-hkn.streamlit.app/",
+      title: " Secure Data Encryption System",
+      description: "This is a Streamlit-based web app that allows users to securely encrypt and store sensitive data using a unique passkey, and later retrieve it with the same passkey.",
+      image: "/nikejordee.png",
+      technologies: ["Streamlit", "Python"],
+      githubLink: "https://github.com/hassannawaz02/Assigment-05.git",
+      liveLink: "https://secure-data-encryption-02.streamlit.app/",
       type: "project",
-      icon: FaDatabase
+      icon: FaServer
     },
   ];
 

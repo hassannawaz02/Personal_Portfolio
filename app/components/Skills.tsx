@@ -45,7 +45,6 @@ const Skills = () => {
         // { name: "CSS3", icon: SiCss3, level: 90, color: "hover:text-blue-400" },
         { name: "JavaScript", icon: SiJavascript, level: 85, color: "hover:text-yellow-400" },
         { name: "TypeScript", icon: SiTypescript, level: 80, color: "hover:text-blue-500" },
-        { name: "React.js", icon: SiReact, level: 85, color: "hover:text-blue-400" },
         { name: "Next.js", icon: SiNextdotjs, level: 90, color: "hover:text-white" }
       ]
     },
@@ -54,7 +53,7 @@ const Skills = () => {
       items: [
         { name: "Node.js", icon: SiNodedotjs, level: 85, color: "hover:text-green-500" },
         { name: "Sanity CMS", icon: SiSanity, level: 80, color: "hover:text-pink-500" },
-        { name: "Agentic AI", icon: FaRobot, level: 75, color: "hover:text-purple-400" },
+        { name: "Agentic AI", icon: FaRobot, level: 50, color: "hover:text-purple-400" },
         { name: "Python", icon: SiPython, level: 80, color: "hover:text-yellow-400" },
         // { name: "MongoDB", icon: SiMongodb, level: 75, color: "hover:text-green-400" },
         // { name: "Git", icon: SiGit, level: 90, color: "hover:text-orange-500" }
